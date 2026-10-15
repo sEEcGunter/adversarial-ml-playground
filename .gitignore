@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# data and intermediate artifacts
+data/
+*.pt
+*.pth
+rerun_outputs.json
+
+# virtualenvs
+.venv/
+venv/
+env/
+
+# editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
